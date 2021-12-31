@@ -1,0 +1,215 @@
+﻿1;Male;67;Others;91;Others;Commerce;58;Sci&Tech;No;Mkt;HR;Mkt&HR;58;Placed;270000
+2;Male;79,33;Central;78,33;Others;Science;77,48;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;66;Placed;200000
+3;Male;65;Central;68;Central;Arts;64;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;57;Placed;250000
+4;Male;56;Central;52;Central;Science;52;Sci&Tech;No;Mkt;HR;Mkt&HR;59;Not Placed;NULL
+5;Male;85,8;Central;73,6;Central;Commerce;73,3;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;55;Placed;425000
+6;Male;55;Others;49,8;Others;Science;67,25;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;51;Not Placed;NULL
+7;Female;46;Others;49,2;Others;Commerce;79;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;53;Not Placed;NULL
+8;Male;82;Central;64;Central;Science;66;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;62;Placed;252000
+9;Male;73;Central;79;Central;Commerce;72;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;61;Placed;231000
+10;Male;58;Central;70;Central;Commerce;61;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;52;Not Placed;NULL
+11;Male;58;Central;61;Central;Commerce;60;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;60;Placed;260000
+12;Male;69,6;Central;68,4;Central;Commerce;78,3;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;63;Placed;250000
+13;Female;47;Central;55;Others;Science;65;Comm&Mgmt;No;Mkt;HR;Mkt&HR;65;Not Placed;NULL
+14;Female;77;Central;87;Central;Commerce;59;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;68;Placed;218000
+15;Male;62;Central;47;Central;Commerce;50;Comm&Mgmt;No;Mkt;HR;Mkt&HR;54;Not Placed;NULL
+16;Female;65;Central;75;Central;Commerce;69;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;64;Placed;200000
+17;Male;63;Central;66,2;Central;Commerce;65,6;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;62;Placed;300000
+18;Female;55;Central;67;Central;Commerce;64;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;67;Not Placed;NULL
+19;Female;63;Central;66;Central;Commerce;64;Comm&Mgmt;No;Mkt;HR;Mkt&HR;64;Not Placed;NULL
+20;Male;60;Others;67;Others;Arts;70;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;77;Placed;236000
+21;Male;62;Others;65;Others;Commerce;66;Comm&Mgmt;No;Mkt;HR;Mkt&HR;56;Placed;265000
+22;Female;79;Others;76;Others;Commerce;85;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;69;Placed;393000
+23;Female;69,8;Others;60,8;Others;Science;72,23;Sci&Tech;No;Mkt;HR;Mkt&HR;68;Placed;360000
+24;Female;77,4;Others;60;Others;Science;64,74;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;63;Placed;300000
+25;Male;76,5;Others;97,7;Others;Science;78,86;Sci&Tech;No;Mkt;Fin;Mkt&Fin;74;Placed;360000
+26;Female;52,58;Others;54,6;Central;Commerce;50,2;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;65;Not Placed;NULL
+27;Male;71;Others;79;Others;Commerce;66;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;57;Placed;240000
+28;Male;63;Others;67;Others;Commerce;66;Comm&Mgmt;No;Mkt;HR;Mkt&HR;57;Placed;265000
+29;Male;76,76;Others;76,5;Others;Commerce;67,5;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;64;Placed;350000
+30;Male;62;Central;67;Central;Commerce;58;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;51;Not Placed;NULL
+31;Female;64;Central;73,5;Central;Commerce;73;Comm&Mgmt;No;Mkt;HR;Mkt&HR;56;Placed;250000
+32;Female;67;Central;53;Central;Science;65;Sci&Tech;No;Mkt;HR;Mkt&HR;58;Not Placed;NULL
+33;Female;61;Central;81;Central;Commerce;66,4;Comm&Mgmt;No;Mkt;HR;Mkt&HR;62;Placed;278000
+34;Female;87;Others;65;Others;Science;81;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;72;Placed;260000
+35;Male;62;Others;51;Others;Science;52;Others;No;Mkt;HR;Mkt&HR;62;Not Placed;NULL
+36;Female;69;Central;78;Central;Commerce;72;Comm&Mgmt;No;Mkt;HR;Mkt&HR;62;Placed;300000
+37;Male;51;Central;44;Central;Commerce;57;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;51;Not Placed;NULL
+38;Female;79;Central;76;Central;Science;65,6;Sci&Tech;No;Mkt;HR;Mkt&HR;55;Placed;320000
+39;Female;73;Others;58;Others;Science;66;Comm&Mgmt;No;Mkt;HR;Mkt&HR;56;Placed;240000
+40;Male;81;Others;68;Others;Science;64;Sci&Tech;No;Mkt;Fin;Mkt&Fin;62;Placed;411000
+41;Female;78;Central;77;Others;Commerce;80;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;66;Placed;287000
+42;Female;74;Others;63,16;Others;Commerce;65;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;69;Not Placed;NULL
+43;Male;49;Others;39;Central;Science;65;Others;No;Mkt;Fin;Mkt&Fin;51;Not Placed;NULL
+44;Male;87;Others;87;Others;Commerce;68;Comm&Mgmt;No;Mkt;HR;Mkt&HR;62;Placed;300000
+45;Female;77;Others;73;Others;Commerce;81;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;69;Placed;200000
+46;Female;76;Central;64;Central;Science;72;Sci&Tech;No;Mkt;HR;Mkt&HR;66;Not Placed;NULL
+47;Female;70,89;Others;71,98;Others;Science;65,6;Comm&Mgmt;No;Mkt;HR;Mkt&HR;71;Not Placed;NULL
+48;Male;63;Central;60;Central;Commerce;57;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;54;Placed;204000
+49;Male;63;Others;62;Others;Commerce;68;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;62;Placed;250000
+50;Female;50;Others;37;Others;Arts;52;Others;No;Mkt;HR;Mkt&HR;56;Not Placed;NULL
+51;Female;75,2;Central;73,2;Central;Science;68,4;Comm&Mgmt;No;Mkt;HR;Mkt&HR;62;Placed;200000
+52;Male;54,4;Central;61,12;Central;Commerce;56,2;Comm&Mgmt;No;Mkt;HR;Mkt&HR;62;Not Placed;NULL
+53;Female;40,89;Others;45,83;Others;Commerce;53;Comm&Mgmt;No;Mkt;HR;Mkt&HR;65;Not Placed;NULL
+54;Male;80;Others;70;Others;Science;72;Sci&Tech;No;Mkt;HR;Mkt&HR;71;Placed;450000
+55;Female;74;Central;60;Others;Science;69;Comm&Mgmt;No;Mkt;HR;Mkt&HR;65;Placed;216000
+56;Male;60,4;Central;66,6;Others;Science;65;Comm&Mgmt;No;Mkt;HR;Mkt&HR;52;Placed;220000
+57;Male;63;Others;71,4;Others;Commerce;61,4;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;66;Placed;240000
+58;Male;68;Central;76;Central;Commerce;74;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;63;Placed;360000
+59;Male;74;Central;62;Others;Science;68;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;57;Placed;268000
+60;Male;52,6;Central;65,58;Others;Science;72,11;Sci&Tech;No;Mkt;Fin;Mkt&Fin;56;Placed;265000
+61;Male;74;Central;70;Central;Science;72;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;57;Placed;260000
+62;Male;84,2;Central;73,4;Central;Commerce;66,89;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;62;Placed;300000
+63;Female;86,5;Others;64,2;Others;Science;67,4;Sci&Tech;No;Mkt;Fin;Mkt&Fin;59;Placed;240000
+64;Male;61;Others;70;Others;Commerce;64;Comm&Mgmt;No;Mkt;HR;Mkt&HR;59;Not Placed;NULL
+65;Male;80;Others;73;Others;Commerce;75;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;58;Placed;240000
+66;Male;54;Others;47;Others;Science;57;Comm&Mgmt;No;Mkt;HR;Mkt&HR;57;Not Placed;NULL
+67;Male;83;Others;74;Others;Science;66;Comm&Mgmt;No;Mkt;HR;Mkt&HR;58;Placed;275000
+68;Male;80,92;Others;78,5;Others;Commerce;67;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;60;Placed;275000
+69;Female;69,7;Central;47;Central;Commerce;72,7;Sci&Tech;No;Mkt;HR;Mkt&HR;59;Not Placed;NULL
+70;Male;73;Central;73;Central;Science;66;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;68;Placed;275000
+71;Male;82;Others;61;Others;Science;62;Sci&Tech;No;Mkt;Fin;Mkt&Fin;65;Placed;360000
+72;Male;75;Others;70,29;Others;Commerce;71;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;66;Placed;240000
+73;Male;84,86;Others;67;Others;Science;78;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;68;Placed;240000
+74;Male;64,6;Central;83,83;Others;Commerce;71,72;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;59;Placed;218000
+75;Male;56,6;Central;64,8;Central;Commerce;70,2;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;67;Placed;336000
+76;Female;59;Central;62;Others;Commerce;77,5;Comm&Mgmt;No;Mkt;HR;Mkt&HR;67;Not Placed;NULL
+77;Female;66,5;Others;70,4;Central;Arts;71,93;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;64;Placed;230000
+78;Male;64;Others;80;Others;Science;65;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;57;Placed;500000
+79;Male;84;Others;90,9;Others;Science;64,5;Sci&Tech;No;Mkt;Fin;Mkt&Fin;59;Placed;270000
+80;Female;69;Central;62;Central;Science;66;Sci&Tech;No;Mkt;HR;Mkt&HR;67;Not Placed;NULL
+81;Female;69;Others;62;Others;Commerce;69;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;62;Placed;240000
+82;Male;81,7;Others;63;Others;Science;67;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;70;Placed;300000
+83;Male;63;Central;67;Central;Commerce;74;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;60;Not Placed;NULL
+84;Male;84;Others;79;Others;Science;68;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;66;Placed;300000
+85;Male;70;Central;63;Others;Science;70;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;62;Placed;300000
+86;Female;83,84;Others;89,83;Others;Commerce;77,2;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;76;Placed;400000
+87;Male;62;Others;63;Others;Commerce;64;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;57;Placed;220000
+88;Male;59,6;Central;51;Central;Science;60;Others;No;Mkt;HR;Mkt&HR;59;Not Placed;NULL
+89;Female;66;Central;62;Central;Commerce;73;Comm&Mgmt;No;Mkt;HR;Mkt&HR;64;Placed;210000
+90;Female;84;Others;75;Others;Science;69;Sci&Tech;Yes;Mkt;HR;Mkt&HR;62;Placed;210000
+91;Female;85;Others;90;Others;Commerce;82;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;68;Placed;300000
+92;Male;52;Central;57;Central;Commerce;50,8;Comm&Mgmt;No;Mkt;HR;Mkt&HR;62;Not Placed;NULL
+93;Female;60,23;Central;69;Central;Science;66;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;59;Placed;230000
+94;Male;52;Central;62;Central;Commerce;54;Comm&Mgmt;No;Mkt;HR;Mkt&HR;55;Not Placed;NULL
+95;Male;58;Central;62;Central;Commerce;64;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;54;Placed;260000
+96;Male;73;Central;78;Others;Commerce;65;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;62;Placed;420000
+97;Female;76;Central;70;Central;Science;76;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;64;Placed;300000
+98;Female;70,5;Central;62,5;Others;Commerce;61;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;69;Not Placed;NULL
+99;Female;69;Central;73;Central;Commerce;65;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;57;Placed;220000
+100;Male;54;Central;82;Others;Commerce;63;Sci&Tech;No;Mkt;Fin;Mkt&Fin;59;Not Placed;NULL
+101;Female;45;Others;57;Others;Commerce;58;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;64;Not Placed;NULL
+102;Male;63;Central;72;Central;Commerce;68;Comm&Mgmt;No;Mkt;HR;Mkt&HR;60;Placed;380000
+103;Female;77;Others;61;Others;Commerce;68;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;61;Placed;300000
+104;Male;73;Central;78;Central;Science;73;Sci&Tech;Yes;Mkt;HR;Mkt&HR;65;Placed;240000
+105;Male;69;Central;63;Others;Science;65;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;58;Placed;360000
+106;Male;59;Central;64;Others;Science;58;Sci&Tech;No;Mkt;HR;Mkt&HR;55;Not Placed;NULL
+107;Male;61,08;Others;50;Others;Science;54;Sci&Tech;No;Mkt;Fin;Mkt&Fin;65;Not Placed;NULL
+108;Male;82;Others;90;Others;Commerce;83;Comm&Mgmt;No;Mkt;HR;Mkt&HR;73;Placed;200000
+109;Male;61;Central;82;Central;Commerce;69;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;58;Placed;300000
+110;Male;52;Central;63;Others;Science;65;Sci&Tech;Yes;Mkt;HR;Mkt&HR;56;Not Placed;NULL
+111;Female;69,5;Central;70;Central;Science;72;Sci&Tech;No;Mkt;HR;Mkt&HR;54;Placed;250000
+112;Male;51;Others;54;Others;Science;61;Sci&Tech;No;Mkt;HR;Mkt&HR;60;Not Placed;NULL
+113;Male;58;Others;61;Others;Commerce;61;Comm&Mgmt;No;Mkt;HR;Mkt&HR;53;Placed;250000
+114;Female;73,96;Others;79;Others;Commerce;67;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;63;Placed;280000
+115;Male;65;Central;68;Others;Science;69;Comm&Mgmt;No;Mkt;HR;Mkt&HR;55;Placed;250000
+116;Female;73;Others;63;Others;Science;66;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;60;Placed;216000
+117;Male;68,2;Central;72,8;Central;Commerce;66,6;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;70;Placed;300000
+118;Male;77;Others;75;Others;Science;73;Sci&Tech;No;Mkt;Fin;Mkt&Fin;67;Placed;240000
+119;Male;76;Central;80;Central;Science;78;Sci&Tech;Yes;Mkt;HR;Mkt&HR;70;Placed;276000
+120;Male;60,8;Central;68,4;Central;Commerce;64,6;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;64;Placed;940000
+121;Male;58;Others;40;Others;Science;59;Comm&Mgmt;No;Mkt;HR;Mkt&HR;58;Not Placed;NULL
+122;Female;64;Central;67;Others;Science;69,6;Sci&Tech;Yes;Mkt;HR;Mkt&HR;71;Placed;250000
+123;Female;66,5;Central;66,8;Central;Arts;69,3;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;71;Placed;236000
+124;Male;74;Others;59;Others;Commerce;73;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;56;Placed;240000
+125;Male;67;Central;71;Central;Science;64,33;Others;Yes;Mkt;HR;Mkt&HR;61;Placed;250000
+126;Female;84;Central;73;Central;Commerce;73;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;73;Placed;350000
+127;Female;79;Others;61;Others;Science;75,5;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;68;Placed;210000
+128;Female;72;Others;60;Others;Science;69;Comm&Mgmt;No;Mkt;HR;Mkt&HR;58;Placed;250000
+129;Male;80,4;Central;73,4;Central;Science;77,72;Sci&Tech;Yes;Mkt;HR;Mkt&HR;76;Placed;400000
+130;Male;76,7;Central;89,7;Others;Commerce;66;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;68;Placed;250000
+131;Male;62;Central;65;Others;Commerce;60;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;64;Not Placed;NULL
+132;Female;74,9;Others;57;Others;Science;62;Others;Yes;Mkt;Fin;Mkt&Fin;60;Placed;360000
+133;Male;67;Others;68;Others;Commerce;64;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;53;Placed;300000
+134;Male;73;Central;64;Others;Commerce;77;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;60;Placed;250000
+135;Female;77,44;Central;92;Others;Commerce;72;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;67;Placed;250000
+136;Female;72;Central;56;Others;Science;69;Comm&Mgmt;No;Mkt;HR;Mkt&HR;65;Placed;200000
+137;Female;47;Central;59;Central;Arts;64;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;61;Not Placed;NULL
+138;Male;67;Others;63;Central;Commerce;72;Comm&Mgmt;No;Mkt;HR;Mkt&HR;60;Placed;225000
+139;Female;82;Others;64;Others;Science;73;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;71;Placed;250000
+140;Male;77;Central;70;Central;Commerce;59;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;54;Placed;220000
+141;Male;65;Central;64,8;Others;Commerce;69,5;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;56;Placed;265000
+142;Male;66;Central;64;Central;Science;60;Comm&Mgmt;No;Mkt;HR;Mkt&HR;61;Not Placed;NULL
+143;Male;85;Central;60;Others;Science;73,43;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;61;Placed;260000
+144;Male;77,67;Others;64,89;Others;Commerce;70,67;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;60;Placed;300000
+145;Male;52;Others;50;Others;Arts;61;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;58;Not Placed;NULL
+146;Male;89,4;Others;65,66;Others;Science;71,25;Sci&Tech;No;Mkt;HR;Mkt&HR;63;Placed;400000
+147;Male;62;Central;63;Others;Science;66;Comm&Mgmt;No;Mkt;HR;Mkt&HR;55;Placed;233000
+148;Male;70;Central;74;Central;Commerce;65;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;62;Placed;300000
+149;Female;77;Central;86;Central;Arts;56;Others;No;Mkt;Fin;Mkt&Fin;64;Placed;240000
+150;Male;44;Central;58;Central;Arts;55;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;58;Not Placed;NULL
+151;Male;71;Central;58,66;Central;Science;58;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;61;Placed;690000
+152;Male;65;Central;65;Central;Commerce;75;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;58;Placed;270000
+153;Female;75,4;Others;60,5;Central;Science;84;Sci&Tech;No;Mkt;Fin;Mkt&Fin;65;Placed;240000
+154;Male;49;Others;59;Others;Science;65;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;62;Placed;340000
+155;Male;53;Central;63;Others;Science;60;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;53;Placed;250000
+156;Male;51,57;Others;74,66;Others;Commerce;59,9;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;65;Not Placed;NULL
+157;Male;84,2;Central;69,4;Central;Science;65;Sci&Tech;Yes;Mkt;HR;Mkt&HR;52;Placed;255000
+158;Male;66,5;Central;62,5;Central;Commerce;60,9;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;55;Placed;300000
+159;Male;67;Others;63;Others;Science;64;Sci&Tech;No;Mkt;Fin;Mkt&Fin;61;Not Placed;NULL
+160;Male;52;Central;49;Others;Commerce;58;Comm&Mgmt;No;Mkt;HR;Mkt&HR;60;Not Placed;NULL
+161;Male;87;Central;74;Central;Science;65;Sci&Tech;Yes;Mkt;HR;Mkt&HR;72;Placed;300000
+162;Male;55,6;Others;51;Others;Commerce;57,5;Comm&Mgmt;No;Mkt;HR;Mkt&HR;62;Not Placed;NULL
+163;Male;74,2;Central;87,6;Others;Commerce;77,25;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;66;Placed;285000
+164;Male;63;Others;67;Others;Science;64;Sci&Tech;No;Mkt;Fin;Mkt&Fin;66;Placed;500000
+165;Female;67,16;Central;72,5;Central;Commerce;63,35;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;65;Placed;250000
+166;Female;63,3;Central;78,33;Others;Commerce;74;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;74;Not Placed;NULL
+167;Male;62;Others;62;Others;Commerce;60;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;52;Placed;240000
+168;Male;67,9;Others;62;Others;Science;67;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;75;Not Placed;NULL
+169;Female;48;Central;51;Central;Commerce;58;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;58;Not Placed;NULL
+170;Male;59,96;Others;42,16;Others;Science;61,26;Sci&Tech;No;Mkt;HR;Mkt&HR;65;Not Placed;NULL
+171;Female;63,4;Others;67,2;Others;Commerce;60;Comm&Mgmt;No;Mkt;HR;Mkt&HR;69;Not Placed;NULL
+172;Male;80;Others;80;Others;Commerce;72;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;66;Placed;290000
+173;Male;73;Others;58;Others;Commerce;56;Comm&Mgmt;No;Mkt;HR;Mkt&HR;52;Placed;300000
+174;Female;52;Others;52;Others;Science;55;Sci&Tech;No;Mkt;HR;Mkt&HR;59;Not Placed;NULL
+175;Male;73,24;Others;50,83;Others;Science;64,27;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;66;Placed;500000
+176;Male;63;Others;62;Others;Science;65;Sci&Tech;No;Mkt;HR;Mkt&HR;60;Not Placed;NULL
+177;Female;59;Central;60;Others;Commerce;56;Comm&Mgmt;No;Mkt;HR;Mkt&HR;57;Placed;220000
+178;Female;73;Central;97;Others;Commerce;79;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;70;Placed;650000
+179;Male;68;Others;56;Others;Science;68;Sci&Tech;No;Mkt;HR;Mkt&HR;68;Placed;350000
+180;Female;77,8;Central;64;Central;Science;64,2;Sci&Tech;No;Mkt;HR;Mkt&HR;72;Not Placed;NULL
+181;Male;65;Central;71,5;Others;Commerce;62,8;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;56;Placed;265000
+182;Male;62;Central;60,33;Others;Science;64,21;Sci&Tech;No;Mkt;HR;Mkt&HR;60;Not Placed;NULL
+183;Male;52;Others;65;Others;Arts;57;Others;Yes;Mkt;Fin;Mkt&Fin;59;Not Placed;NULL
+184;Male;65;Central;77;Central;Commerce;69;Comm&Mgmt;No;Mkt;HR;Mkt&HR;61;Placed;276000
+185;Female;56,28;Others;62,83;Others;Commerce;59,79;Comm&Mgmt;No;Mkt;HR;Mkt&HR;57;Not Placed;NULL
+186;Female;88;Central;72;Central;Science;78;Others;No;Mkt;HR;Mkt&HR;71;Placed;252000
+187;Female;52;Central;64;Central;Commerce;61;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;62;Not Placed;NULL
+188;Male;78,5;Central;65,5;Central;Science;67;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;64;Placed;280000
+189;Male;61,8;Others;47;Others;Commerce;54,38;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;56;Not Placed;NULL
+190;Female;54;Central;77,6;Others;Commerce;69,2;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;66;Not Placed;NULL
+191;Female;64;Others;70,2;Central;Commerce;61;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;62;Not Placed;NULL
+192;Male;67;Others;61;Central;Science;72;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;61;Placed;264000
+193;Male;65,2;Central;61,4;Central;Commerce;64,8;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;57;Placed;270000
+194;Female;60;Central;63;Central;Arts;56;Others;Yes;Mkt;HR;Mkt&HR;56;Placed;300000
+195;Male;52;Others;55;Others;Commerce;56,3;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;64;Not Placed;NULL
+196;Male;66;Central;76;Central;Commerce;72;Comm&Mgmt;Yes;Mkt;HR;Mkt&HR;58;Placed;275000
+197;Male;72;Others;63;Others;Science;77,5;Sci&Tech;Yes;Mkt;Fin;Mkt&Fin;54;Placed;250000
+198;Female;83,96;Others;53;Others;Science;91;Sci&Tech;No;Mkt;HR;Mkt&HR;69;Placed;260000
+199;Female;67;Central;70;Central;Commerce;65;Others;No;Mkt;HR;Mkt&HR;71;Not Placed;NULL
+200;Male;69;Others;65;Others;Commerce;57;Comm&Mgmt;No;Mkt;HR;Mkt&HR;55;Placed;265000
+201;Male;69;Others;60;Others;Commerce;65;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;52;Placed;300000
+202;Male;54,2;Central;63;Others;Science;58;Comm&Mgmt;No;Mkt;HR;Mkt&HR;58;Not Placed;NULL
+203;Male;70;Central;63;Central;Science;66;Sci&Tech;No;Mkt;HR;Mkt&HR;60;Placed;240000
+204;Male;55,68;Others;61,33;Others;Commerce;56,87;Comm&Mgmt;No;Mkt;HR;Mkt&HR;58;Placed;260000
+205;Female;74;Others;73;Others;Commerce;73;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;67;Placed;210000
+206;Male;61;Others;62;Others;Commerce;65;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;56;Placed;250000
+207;Male;41;Central;42;Central;Science;60;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;53;Not Placed;NULL
+208;Male;83,33;Central;78;Others;Commerce;61;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;71;Placed;300000
+209;Female;43;Central;60;Others;Science;65;Comm&Mgmt;No;Mkt;HR;Mkt&HR;62;Not Placed;NULL
+210;Male;62;Central;72;Central;Commerce;65;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;56;Placed;216000
+211;Male;80,6;Others;82;Others;Commerce;77,6;Comm&Mgmt;No;Mkt;Fin;Mkt&Fin;74;Placed;400000
+212;Male;58;Others;60;Others;Science;72;Sci&Tech;No;Mkt;Fin;Mkt&Fin;53;Placed;275000
+213;Male;67;Others;67;Others;Commerce;73;Comm&Mgmt;Yes;Mkt;Fin;Mkt&Fin;69;Placed;295000
+214;Female;74;Others;66;Others;Commerce;58;Comm&Mgmt;No;Mkt;HR;Mkt&HR;60;Placed;204000
+215;Male;62;Central;58;Others;Science;53;Comm&Mgmt;No;Mkt;HR;Mkt&HR;60;Not Placed;NULL
